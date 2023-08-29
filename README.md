@@ -3,6 +3,7 @@
 
 
 
+![Rossman](https://github.com/VirenderChib/Retail_sales_prediction_Regression/assets/117941172/e1179d26-ebd6-4d08-99a9-da73bff7d30a)
 
 
 
